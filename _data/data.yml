@@ -8,13 +8,13 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Nate Richmond
+    tagline: Azure Architect - AVD SME2222
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: nathan.richmond@runsinthecloud.com
+    phone: 586 244 2376
     timezone: America/Cancun Timezone
     citizenship:
     website: blog.webjeda.com #do not add http://
@@ -30,18 +30,7 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native
-
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
-
+    
     interests:
       title: Interests
       info:
@@ -63,6 +52,7 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
+
 education:
     title: Education
     info:
@@ -92,9 +82,9 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Azure Architect
+        time: Birth - Present
+        company: AJG , HCSC
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
