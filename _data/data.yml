@@ -4,7 +4,7 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    # about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -92,7 +92,6 @@ experiences:
           Description Comping
             - Bullet point
             - Bullet point
-
 certifications:
       title: Certifications
       list:
@@ -133,7 +132,6 @@ certifications:
             Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
             Praesent venenatis erat non augue suscipit consectetur.
-
 projects:
     title: Projects
     intro: >
@@ -160,7 +158,6 @@ projects:
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 #oss:
     #title: OSS Contributions
     #intro: >
