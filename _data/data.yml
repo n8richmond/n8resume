@@ -60,9 +60,15 @@ experiences:
         time: Birth - Present
         company: AJG , HCSC
         details: |
-          Description
-            - Bullet point
-            - Bullet point
+          In this role, the primary focus is on migrating Citrix on-premises desktop and published applications
+           to the Azure Virtual Desktop cloud platform. This task involves deep engagement with various platforms,
+            including Azure Architecture, Azure Virtual Desktop Services, Nerdio Enterprise Manager, and PowerShell
+             scripting for Azure, AD, Citrix, and Horizon. The role also encompasses working with Citrix Cloud DaaS, Control Plane,
+              and Azure Session Host. The daily responsibilities include utilizing these technologies to assist clients in transitioning 
+              their workloads to the cloud, aiming to enhance scalability, flexibility, and security in their operations.
+              - "Design and Implement of Nerdio with Dev Ops Process" changed to "Design and Implementation of Nerdio with DevOps Processes" for grammatical accuracy and clarity.
+              - "Desktops updates automated" revised to "Automation of Desktop Updates" for better readability.
+              - "HA / DR Design with Multi Azure Regiouns and Gallerys" corrected to "High Availability (HA) / Disaster Recovery (DR) Design with Multiple Azure Regions and Galleries" to fix spelling errors and enhance clarity.           
       - role: Citrix Architect / Cloud Desktop Consultant
         time: 08/2021 - 04/2023
         company: HCSC / BCBS
@@ -89,9 +95,9 @@ experiences:
         time: 05/2020 - 08/2021
         company: Vcore / Warner Media
         details: |
-          Description Comping
-            - Bullet point
-            - Bullet point
+          Consultant for VMware Horizon Design
+            - Cloud Migration Strategy
+            - Documentation Standards and Roatmaps
 certifications:
       title: Certifications
       list:
