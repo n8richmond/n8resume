@@ -52,7 +52,7 @@ career-profile:
       migrations and implementing robust virtual environments. My experience 
       reflects a commitment to practical innovation and teamwork 
       in evolving IT landscapes.
----
+
 experiences:
     title: Experiences
     info:
@@ -60,18 +60,9 @@ experiences:
         time: Birth - Present
         company: AJG , HCSC
         details: |
-          In this role, the primary focus is on migrating Citrix on-premises desktop 
-          and published applications to the Azure Virtual Desktop cloud platform. 
-          This task involves deep engagement with various platforms, including 
-          Azure Architecture, Azure Virtual Desktop Services, Nerdio Enterprise Manager, 
-          and PowerShell scripting for Azure, AD, Citrix, and Horizon. The role also 
-          encompasses working with Citrix Cloud DaaS, Control Plane, and Azure Session Host. The 
-          daily responsibilities include utilizing these technologies to assist clients in 
-          transitioning their workloads to the cloud, aiming to enhance scalability, flexibility, 
-          and security in their operations.
-            - Design and Implement of Nerdio with Dev Ops Process" changed to "Design and Implementation of Nerdio with DevOps Processes" for grammatical accuracy and clarity.
-            - "Desktops updates automated" revised to "Automation of Desktop Updates" for better readability.
-            - "HA / DR Design with Multi Azure Regiouns and Gallerys" corrected to "High Availability (HA) / Disaster Recovery (DR) Design with Multiple Azure Regions and Galleries" to fix spelling errors and enhance clarity.
+          Description
+            - Bullet point
+            - Bullet point
       - role: Citrix Architect / Cloud Desktop Consultant
         time: 08/2021 - 04/2023
         company: HCSC / BCBS
@@ -88,7 +79,7 @@ experiences:
             - Used Control Up to identify and resolve login bottlenecks.
             - Developed optimization scripts for Azure Virtual Desktop, increasing performance and reliability.
             - Collaborated with VMware team to create standard VROPS dashboards for session workloads.
-          * Azure Virtual Desktop Architect
+          Azure Virtual Desktop Architect
           - Led a global migration from Citrix to Azure AVD/Nerdio DaaS as the primary architect, delivering a highly efficient and streamlined solution.
           - Designed and rolled out an Azure AVD/Nerdio production environment for 5000 sessions, as well as a pilot environment for 500 sessions
           - Created a comprehensive cloud operational process to support Tier 1, 2, and 3 operations.
@@ -98,34 +89,34 @@ experiences:
         time: 05/2020 - 08/2021
         company: Vcore / Warner Media
         details: |
-          In this role, as a Senior Technical Engineer and Technical Team Lead, key responsibilities included providing expert technical and operational 
-          support to 5,000 concurrent users across the East and West coasts of the United States. The position involved designing and improving existing 
-          VMware Horizon, Citrix, and endpoint systems, with a focus on implementing multi-factor authentication, integrating Horizon Cloud Services, and 
-          ensuring standardization across all platforms. A significant part of the role was leading the migration from Citrix to VMware Horizon/View, which
-          entailed successfully moving 120 published applications, encompassing thorough testing and managing their end-of-life processes. Additionally, the role
-          required managing all Priority 1 and Priority 2 incidents, a critical aspect that involved day-to-day operational management to guarantee maximum 
-          system uptime and stability.
-          - Bullet point
-          - Bullet point
-          - Served as a Senior Technical Engineer and Technical Team Lead, providing expert technical and operational support to 5000 concurrent users across the East and West coast US.
-          - Designed and remediated existing VMware Horizon, Citrix, and endpoint systems, implementing multi-factor authentication, Horizon Cloud Services, and standardizing all platforms.
-          - Led the migration from Citrix to VMware Horizon/View, successfully migrating 120 published applications through comprehensive testing and end-of-life processes.
-          - Managed all P1 and P2 incidents, providing effective day-to-day operational management to ensure maximum system uptime and stability.
-
----
+          Description Comping
+            - Bullet point
+            - Bullet point
 certifications:
       title: Certifications
       list:
-        - name: Citrix Certified Expert
-          start: 06/2014
-          end: 06/2020)
-          organization: Citrix
-          credentialid: 
-          credentialurl: 
-          credentialname:
+        - name: CV Builder
+          start: 2020
+          end: 2021
+          organization: Microsoft
+          credentialid: 111-222
+          credentialurl: www.google.com
+          credentialname: Google
           details: |
-            Details on Cert
-        - name: Microsoft
+            Details about cert. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elit.
+            Nullam eget orci purus. Nullam ultrices neque nibh.
+            Aenean fermentum, felis vulputate suscipit accumsan,
+            sem enim bibendum augue, sed convallis arcu lacus at dui.
+            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+            Praesent venenatis erat non augue suscipit consectetur.
+
+            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+            fringilla vel. Ut euismod, sem sed vulputate venenatis,
+            justo diam viverra velit, sed rhoncus leo leo eu justo.
+            Suspendisse placerat risus ante, sed porta nisi blandit at.
+        - name: Git learning
           start: 2019
           end:
           organization: Microsoft
@@ -141,7 +132,6 @@ certifications:
             Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
             Praesent venenatis erat non augue suscipit consectetur.
----
 projects:
     title: Projects
     intro: >
@@ -168,7 +158,6 @@ projects:
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 #oss:
     #title: OSS Contributions
     #intro: >
@@ -209,19 +198,19 @@ projects:
       #  link: "#"
       #  authors: Edgar T. Irons
       #  conference: "Comm. ACM 4 (1961), 51–55"
----
+
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Azure Virtual Desktop 
+      - name: Azure Architecture
         level: 98%
 
-      - name: Azure Infrastructure
-        level: 92%
+      - name: Azure Virtual Desktop
+        level: 98%
 
       - name: Citrix Cloud Desktop as a Service
-        level: 88%
+        level: 98%
 
       - name: Active Directory, Group Policy
         level: 95%
@@ -230,7 +219,7 @@ skills:
         level: 85%
 
       - name: Vmware Horizon
-        level: 78%
+        level: 60%
 
-footer: >
+# footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
