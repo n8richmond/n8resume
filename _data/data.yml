@@ -52,7 +52,7 @@ career-profile:
       migrations and implementing robust virtual environments. My experience 
       reflects a commitment to practical innovation and teamwork 
       in evolving IT landscapes.
-
+---
 experiences:
     title: Experiences
     info:
@@ -92,7 +92,7 @@ experiences:
           Description Comping
             - Bullet point
             - Bullet point
-
+---
 certifications:
       title: Certifications
       list:
@@ -133,7 +133,7 @@ certifications:
             Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
             Praesent venenatis erat non augue suscipit consectetur.
-
+---
 projects:
     title: Projects
     intro: >
@@ -201,7 +201,7 @@ projects:
       #  link: "#"
       #  authors: Edgar T. Irons
       #  conference: "Comm. ACM 4 (1961), 51–55"
-
+---
 skills:
     title: Skills &amp; Proficiency
 
