@@ -17,7 +17,7 @@ sidebar:
     phone: 586 244 2376
     timezone: America/Eastern Timezone
     citizenship:
-    #website: blog.webjeda.com #do not add http://
+    # website: blog.webjeda.com #do not add http://
     linkedin: 
     xing:
     github:
@@ -60,37 +60,36 @@ experiences:
         time: Birth - Present
         company: AJG , HCSC
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
+          Description
             - Bullet point
             - Bullet point
-      - role: Citrix / Vmware Architect
-        time: 2014 - 2015
-        company: Google, London
+      - role: Citrix Architect / Cloud Desktop Consultant,  (08/2021 - 04/2023)
+        time: 08/2021 - 04/2023
+        company: HCSC / BCBS
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          As a Citrix Architect and Cloud Desktop Consultant at HCSC, 
+          Nathan Richmond contributed to enhancements in virtualization and cloud 
+          computing. He focused on refining virtual desktop environments through 
+          developing FSLogix standards and optimizing Group Policy. Nathan also 
+          played a role in troubleshooting login issues and improving Azure Virtual 
+          Desktop performance, collaborating effectively with the VMware team on VROPS 
+          dashboards to support efficient virtualized infrastructure management.
+            - Developed FSLogix standards and migration path, resulting in improved performance and efficiency
+            - Optimized Group Policy by removing legacy settings and leveraging GPP
+            - Used Control Up to identify and resolve login bottlenecks.
+            - Developed optimization scripts for Azure Virtual Desktop, increasing performance and reliability.
+            - Collaborated with VMware team to create standard VROPS dashboards for session workloads.
+          Azure Virtual Desktop Architect
+          - Led a global migration from Citrix to Azure AVD/Nerdio DaaS as the primary architect, delivering a highly efficient and streamlined solution.
+          - Designed and rolled out an Azure AVD/Nerdio production environment for 5000 sessions, as well as a pilot environment for 500 sessions
+          - Created a comprehensive cloud operational process to support Tier 1, 2, and 3 operations.
+          - Integrated Intune, Group Policy, and PowerShell to optimize the Windows 10 desktop experience.
+          - Developed RemoteApp, multi-session Windows 10, and VDI (1 to 1) DaaS solutions using Azure AVD, delivering enhanced functionality and improved performance.
+      - role: VDI Architect(Contractor)
+        time: 05/2020 - 08/2021
+        company: Vcore / Warner Media
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
+          Description Comping
             - Bullet point
             - Bullet point
 
