@@ -206,14 +206,14 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Azure Architecture
+      - name: Azure Virtual Desktop 
         level: 98%
 
-      - name: Azure Virtual Desktop
-        level: 98%
+      - name: Azure Infrastructure
+        level: 92%
 
       - name: Citrix Cloud Desktop as a Service
-        level: 98%
+        level: 88%
 
       - name: Active Directory, Group Policy
         level: 95%
@@ -222,7 +222,7 @@ skills:
         level: 85%
 
       - name: Vmware Horizon
-        level: 60%
+        level: 78%
 
 # footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
