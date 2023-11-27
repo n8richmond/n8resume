@@ -5,79 +5,53 @@
 sidebar:
     position: right # position of the sidebar : left or right
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Nate Richmond
-    tagline: Azure Architect - AVD SME2222
+    tagline: Azure Architect - AVD SME
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: nathan.richmond@runsinthecloud.com
     phone: 586 244 2376
-    timezone: America/Cancun Timezone
+    timezone: America/Eastern Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
+    #website: blog.webjeda.com #do not add http://
+    linkedin: 
+    xing:
+    github:
+    telegram:
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter:
+    stack-overflow:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
-
+    pdf: 
     
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Artificial Intellegence
           link:
 
-        - item: Snowboarding
+        - item: Python Development
           link:
 
-        - item: Cooking
+        - item: Deep Learning
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
-
-education:
-    title: Education
-    info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      With over 28 years in information technology, my career has 
+      been dedicated to mastering virtualization and cloud technologies, 
+      including Citrix, VMware, Microsoft Server, and Azure. I have focused 
+      on creating efficient, reliable IT solutions, leading significant 
+      migrations and implementing robust virtual environments. My experience 
+      reflects a commitment to practical innovation and teamwork 
+      in evolving IT landscapes.
 
 experiences:
     title: Experiences
@@ -97,7 +71,7 @@ experiences:
           architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
-      - role: Senior Software Engineer
+      - role: Citrix / Vmware Architect
         time: 2014 - 2015
         company: Google, London
         details: |
@@ -188,7 +162,7 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-oss:
+#oss:
     title: OSS Contributions
     intro: >
       You can list your open source software contributions in this
@@ -207,7 +181,7 @@ oss:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
+#publications:
     title: Publications
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
