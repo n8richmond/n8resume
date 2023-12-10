@@ -14,7 +14,7 @@ sidebar:
 
     # Sidebar links
     email: n8richmond@gmail.com
-    phone: Upon Email Reuquest
+    phone: Upon Email Request
     timezone: America/Eastern Timezone
     citizenship:
     # website: blog.webjeda.com #do not add http://
@@ -52,7 +52,6 @@ career-profile:
       migrations and implementing robust virtual environments. My experience 
       reflects a commitment to practical innovation and teamwork 
       in evolving IT landscapes.
-
 experiences:
     title: Experiences
     info:
@@ -141,49 +140,48 @@ certifications:
       title: Certifications
       list:
         - name: Citrix Certified Engineer
-          start: 2020
-          end: 2021
+          start: 2002
+          end: 2016
           organization: Citrix
           credentialid: 
           credentialurl:
           credentialname:
           details: |
-            Citrix Cert Details
+            Maintained Citrix Engineering Certificates Engineer to Expert
         - name: Microsoft Certified Engineer
-          start: 
-          end:
+          start: 2005
+          end: 2016
           organization: Microsoft
           credentialid: 
           credentialurl: 
           credentialname: 
           details: |
-            Microsoft Cert Details
+            Maintained MCSE from NT to 2016
+       - name: VMWare Certified Professional
+          start: 2002
+          end: 2014
+          organization: VMWare
+          credentialid: 
+          credentialurl: 
+          credentialname: 
+          details: |
+            Maintianed VCP from 2 to 7, and VXDX for Version 4
 projects:
     title: Citrix Cloud DaaS Services
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+     I have several years of experience working with the Azure, Citrix and Vmware Horizon. The projects and links below give examples of documentation designed during these projects.
     assignments:
-      - title: Azure Virtual Desktop
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Azure Virtual Desktop (AVD) Design and Implementation
+        link: "AVDPORTAL LINK"
+        tagline: "Azure AVD with Nerdio Implementation for Developer Desktop and General Corporate Desktop"
 
-      - title: Azure Virtual Desktop
-        link: "#"
+      - title: Citrix Cloud Design
+        link: "CITRIX CLOUD LINK"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Various Citrix and VMware Horizon Assessments and Roadmap Design
+        link: "GENERAL DESIGN LINK"
+        tagline: "Flexible Design Methodology that fits all remote user requirements"
 #oss:
     #title: OSS Contributions
     #intro: >
