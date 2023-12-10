@@ -9,12 +9,12 @@ sidebar:
 
     # Profile information
     name: Nate Richmond
-    tagline: Azure Architect - AVD SME
+    tagline: Cloud Desktop Architect - Azure & Citrix
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: nathan.richmond@runsinthecloud.com
-    phone: 586 244 2376
+    email: n8richmond@gmail.com
+    phone: Upon Email Reuquest
     timezone: America/Eastern Timezone
     citizenship:
     # website: blog.webjeda.com #do not add http://
@@ -98,6 +98,37 @@ experiences:
           Consultant for VMware Horizon Design
             - Cloud Migration Strategy
             - Documentation Standards and Roatmaps
+      - role: Senior Technical Engineer and Technical Team Lead
+                  time: 08/2015 - 05/2020
+                  company:  Ceridian / Dayforce - Saint Petersburg, FL - May 2015 to August 2020
+                  details:  What Does this doe?
+                    Consultant for VMware Horizon Design
+                      - VMware Technical Team Lead responsible for all priority one support issues, operational standards for support teams, 
+                        all enterprise architecture design designs such as VCenter placement, NSX-Dswitch-VSwitch Designs/Standards, 
+                        VM Deployment Standards, retention standards, and all other enterprise wide vmware design decisions.
+                        Cloud Migration Strategy
+                      - DVDI, Published Applications, Terminal Services Team Lead responsible for all priority one support
+                        issues. I was the primary technical lead on all VDI, Terminal Services and Application Publishing 
+                        services platforms. My daily role was to be the technical bridge between the Citrix, VMware, 
+                        Active Directory, Desktop support team and the upper management.
+                      - Redeveloped all new standardized all VDI, Terminal Services into uniformed supported procedures and tools. 
+                      - Wrote and executed migration plan for legacy applications published in Citrix to VMware Horizon with external two factor authentication.
+                      - Supported five thousand VDI/XenApp users across multiple platforms such as Citrix, VMWare and RDS (RDSH)
+                      - Redesigned and remediated all active directory group policy throughout the master domain. Computer and User Policies were completely redesigned and implemented from the ground up.
+                      - Designed and implementation of hosted virtual desktop infrastructure in VMware Horizon
+                      - Designed and manage VMware Infrastructure on Amazon hosted.
+      - role: Virtualization Principal Consultant (Architect)
+                  time: 08/2010 - 06/2015
+                  company:  Open Systems Technology - Grand Rapids, MI
+                  details:  What Does this doe?
+                          Consultant - Subject matter expert in VDI, Citrix VMware Horizon
+                            - Design and implementation of hosted virtual desktop as a service (DaaS)
+                            - Design and implementation of hosted virtual infrastructure 
+                            - Design and manage XenDesktop 5,000 Seat Enterprise implementation for MSP hosting - Ongoing
+                            - Design and manage XenDesktop 10,000 Seat Enterprise implementation at Navistar, Lisle IL
+                            - Design and implemented VMware View 2000 Seat Enterprise implementation at Priority Health 
+                            - Design and manage XenApp 1,800 Seat Enterprise implementation at John Deere Landscapes
+                            - Design and manage VMware View 2,800 Seat Enterprise implementation at Metro Health
 certifications:
       title: Certifications
       list:
