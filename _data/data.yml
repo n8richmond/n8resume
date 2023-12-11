@@ -129,53 +129,53 @@ experiences:
             - Design and implemented VMware View 2000 Seat Enterprise implementation at Priority Health 
             - Design and manage XenApp 1,800 Seat Enterprise implementation at John Deere Landscapes
             - Design and manage VMware View 2,800 Seat Enterprise implementation at Metro Health
-certifications:
-      title: Certifications
-      list:
-        - name: Citrix Certified Engineer
-          start: 2020
-          end: 2021
-          organization: Citrix
-          credentialid: 
-          credentialurl:
-          credentialname:
-          details: |
-            Citrix Cert Details
-        - name: Microsoft Certified Engineer
-          start: 
-          end:
-          organization: Microsoft
-          credentialid: 
-          credentialurl: 
-          credentialname: 
-          details: |
-            Microsoft Cert Details
-projects:
-    title: Citrix Cloud DaaS Services
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Azure Virtual Desktop
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#certifications:
+#      title: Certifications
+#      list:
+#        - name: Citrix Certified Engineer
+#          start: 2020
+#          end: 2021
+#          organization: Citrix
+#          credentialid: 
+#          credentialurl:
+#          credentialname:
+#          details: |
+#            Citrix Cert Details
+#        - name: Microsoft Certified Engineer
+#          start: 
+#          end:
+#          organization: Microsoft
+#          credentialid: 
+#          credentialurl: 
+#          credentialname: 
+#          details: |
+#            Microsoft Cert Details
+#projects:
+#    title: Citrix Cloud DaaS Services
+#    intro: >
+#      You can list your side projects in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#    assignments:
+#      - title: Azure Virtual Desktop
+#        link: "#hook"
+#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: Azure Virtual Desktop
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#      - title: Azure Virtual Desktop
+#        link: "#"
+#        tagline: "A responsive website template designed to help web developers/designers market their services."
+#
+#      - title: Tempo
+#        link: "#"
+#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#
+#      - title: Atom
+#        link: "#"
+#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#
+#      - title: Delta
+#        link: "#"
+#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 #oss:
     #title: OSS Contributions
     #intro: >
