@@ -167,22 +167,19 @@ certifications:
           details: |
             Maintianed VCP from 2 to 7, and VXDX for Version 4       
 #projects: 
-#   title: Citrix XenApp-XenDesktop-DaaS / Azure AVD / Vmware Horizon Projects
-#  intro: >
-#     I have several years of experience working with the Azure, Citrix and Vmware Horizon. The projects and links below give examples of documentation designed during these projects.
-#     
-#    assignments:
-#      - title: Azure Virtual Desktop (AVD) Design and Implementation
-#        link: "AVDPORTAL LINK"
-#        tagline: "Azure AVD with Nerdio Implementation for Developer Desktop and General Corporate Desktop"
-#
-#      - title: Citrix Cloud Design
-#        link: "CITRIX CLOUD LINK"
-#        tagline: "A responsive website template designed to help web developers/designers market their services."#
-#
-#      - title: Various Citrix and VMware Horizon Assessments and Roadmap Design
-#        link: "GENERAL DESIGN LINK"
-#        tagline: "Flexible Design Methodology that fits all remote user requirements"
+   title: Citrix XenApp-XenDesktop-DaaS / Azure AVD / Vmware Horizon Projects
+   intro: >
+     I have several years of experience working with the Azure, Citrix and Vmware Horizon. The projects and links below give examples of documentation designed during these projects.
+    assignments:
+      - title: Azure Virtual Desktop (AVD) Design and Implementation
+        link: "AVDPORTAL LINK"
+        tagline: "Azure AVD with Nerdio Implementation for Developer Desktop and General Corporate Desktop"
+      - title: Citrix Cloud Design
+        link: "CITRIX CLOUD LINK"
+        tagline: "A responsive website template designed to help web developers/designers market their services."#
+      - title: Various Citrix and VMware Horizon Assessments and Roadmap Design
+        link: "GENERAL DESIGN LINK"
+        tagline: "Flexible Design Methodology that fits all remote user requirements"
 #oss:
     #title: OSS Contributions
     #intro: >
