@@ -165,10 +165,9 @@ certifications:
           credentialurl: 
           credentialname: 
           details: |
-            Maintianed VCP from 2 to 7, and VXDX for Version 4
-            
-projects: Citrix XenApp-XenDesktop-DaaS / Azure AVD / Vmware Horizon Projects
-    title: Citrix Cloud DaaS Services
+            Maintianed VCP from 2 to 7, and VXDX for Version 4       
+projects: 
+    title: Citrix XenApp-XenDesktop-DaaS / Azure AVD / Vmware Horizon Projects
     intro: >
      I have several years of experience working with the Azure, Citrix and Vmware Horizon. The projects and links below give examples of documentation designed during these projects.
     assignments:
