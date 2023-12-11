@@ -137,35 +137,35 @@ experiences:
            
             - Design and manage VMware View 2,800 Seat Enterprise implementation at Metro Health
 certifications:
-      title: Certifications
-      list:
-        - name: Citrix Certified Engineer
-          start: 2002
-          end: 2016
-          organization: Citrix
-          credentialid: 
-          credentialurl:
-          credentialname:
-          details: |
-            Maintained Citrix Engineering Certificates Engineer to Expert
-        - name: Microsoft Certified Engineer
-          start: 2005
-          end: 2016
-          organization: Microsoft
-          credentialid: 
-          credentialurl: 
-          credentialname: 
-          details: |
-            Maintained MCSE from NT to 2016
-       - name: VMWare Certified Professional
-          start: 2002
-          end: 2014
-          organization: VMWare
-          credentialid: 
-          credentialurl: 
-          credentialname: 
-          details: |
-            Maintianed VCP from 2 to 7, and VXDX for Version 4       
+    title: Certifications
+    list:
+      - name: Citrix Certified Engineer
+        start: 2002
+        end: 2016
+        organization: Citrix
+        credentialid: 
+        credentialurl:
+        credentialname:
+        details: |
+          Maintained Citrix Engineering Certificates Engineer to Expert
+      - name: Microsoft Certified Engineer
+        start: 2005
+        end: 2016
+        organization: Microsoft
+        credentialid: 
+        credentialurl: 
+        credentialname: 
+        details: |
+          Maintained MCSE from NT to 2016
+     - name: VMWare Certified Professional
+        start: 2002
+        end: 2014
+        organization: VMWare
+        credentialid: 
+        credentialurl: 
+        credentialname: 
+        details: |
+        Maintianed VCP from 2 to 7, and VXDX for Version 4       
 projects: 
    title: Citrix XenApp-XenDesktop-DaaS / Azure AVD / Vmware Horizon Projects
    intro: >
