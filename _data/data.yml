@@ -101,7 +101,7 @@ experiences:
       - role: Senior Technical Engineer and Technical Team Lead
         time: 08/2015 - 05/2020
         company:  Ceridian / Dayforce - Saint Petersburg, FL - May 2015 to August 2020
-        details:  What Does this doe?
+        details:
           Consultant for VMware Horizon Design
             - VMware Technical Team Lead responsible for all priority one support issues, operational standards for support teams, all enterprise architecture design designs such as VCenter placement, NSX-Dswitch-VSwitch Designs/Standards, VM Deployment Standards, retention standards, and all other enterprise wide vmware design decisions.Cloud migration strategy planning.
               
@@ -121,7 +121,7 @@ experiences:
       - role: Virtualization Principal Consultant (Architect)
         time: 08/2010 - 06/2015
         company:  Open Systems Technology - Grand Rapids, MI
-        details:  What Does this doe?
+        details:
           Consultant - Subject matter expert in VDI, Citrix VMware Horizon
             - Design and implementation of hosted virtual desktop as a service (DaaS)
             
