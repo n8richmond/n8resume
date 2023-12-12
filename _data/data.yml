@@ -56,7 +56,7 @@ experiences:
     title: Experiences
     info:
       - role: Azure Architect (AVD SME)
-        time: 08/2021 - Present
+        time: 08/2020 - Present
         company: Gallagher
         details: |
           In this role, the primary focus is on migrating Citrix on-premises desktop and published applications
@@ -68,8 +68,8 @@ experiences:
             - "Design and Implement of Nerdio with Dev Ops Process" changed to "Design and Implementation of Nerdio with DevOps Processes" for grammatical accuracy and clarity.
             - "Desktops updates automated" revised to "Automation of Desktop Updates" for better readability.
             - "HA / DR Design with Multi Azure Regiouns and Gallerys" corrected to "High Availability (HA) / Disaster Recovery (DR) Design with Multiple Azure Regions and Galleries" to fix spelling errors and enhance clarity.           
-      - role: Citrix Architect / Cloud Desktop Consultant
-        time: 08/2021 - 04/2023
+      - role: Citrix Architect / Cloud Desktop Consultant (Contractor)
+        time: 02/2020 - 08/2020
         company: HCSC / BCBS
         details: |
           As a Citrix Architect and Cloud Desktop Consultant at HCSC, 
@@ -90,15 +90,8 @@ experiences:
           - Created a comprehensive cloud operational process to support Tier 1, 2, and 3 operations.
           - Integrated Intune, Group Policy, and PowerShell to optimize the Windows 10 desktop experience.
           - Developed RemoteApp, multi-session Windows 10, and VDI (1 to 1) DaaS solutions using Azure AVD, delivering enhanced functionality and improved performance.
-      - role: VDI Architect (Contractor)
-        time: 05/2020 - 08/2020
-        company: Vcore / Warner Media
-        details: |
-          Consultant for VMware Horizon Design
-            - Cloud Migration Strategy
-            - Documentation Standards and Roatmaps
       - role: Senior Technical Engineer and Technical Team Lead
-        time: 08/2015 - 05/2020
+        time: 08/2015 - 02/2020
         company:  Ceridian / Dayforce - Saint Petersburg, FL - May 2015 to August 2020
         details:
           Consultant for VMware Horizon Design
