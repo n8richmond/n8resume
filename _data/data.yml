@@ -65,9 +65,9 @@ experiences:
           scripting for Azure, AD, Citrix, and Horizon. The role also encompasses working with Citrix Cloud DaaS, Control Plane,
           and Azure Session Host. The daily responsibilities include utilizing these technologies to assist clients in transitioning 
           their workloads to the cloud, aiming to enhance scalability, flexibility, and security in their operations.
-            - "Design and Implement of Nerdio with Dev Ops Process" changed to "Design and Implementation of Nerdio with DevOps Processes" for grammatical accuracy and clarity.
-            - "Desktops updates automated" revised to "Automation of Desktop Updates" for better readability.
-            - "HA / DR Design with Multi Azure Regiouns and Gallerys" corrected to "High Availability (HA) / Disaster Recovery (DR) Design with Multiple Azure Regions and Galleries" to fix spelling errors and enhance clarity.           
+            - Design and Implementation of Nerdio with DevOps Processes
+            - Automation of Desktop Updates
+            - High Availability (HA) / Disaster Recovery (DR) Design with Multiple Azure Regions and Galleries" to fix spelling errors and enhance clarity.           
       - role: Citrix Architect / Cloud Desktop Consultant (Contractor)
         time: 02/2020 - 08/2020
         company: HCSC / BCBS
