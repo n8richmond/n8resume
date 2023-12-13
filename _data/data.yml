@@ -33,6 +33,12 @@ sidebar:
     interests:
       title: Interests
       info:
+        - item: Azure Architecture / Infrastructure
+          link:
+
+        - item: Azure Virtual Desktop / Nerdio
+          link:
+
         - item: Artificial Intellegence
           link:
 
